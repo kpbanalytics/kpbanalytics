@@ -48,13 +48,10 @@ etc....
 ---
 
 # 📫 Contact Me
-To get a hold of me you can find me on the following platforms:
+To get a hold of me you can message me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/kutloanopaulbokaba">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" />
-</a>
-<a href="mailto:kpbanalytics@users.noreply.github.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" />
 </a>
 
 ---
