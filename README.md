@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋 I'm Kutloano Paul Bokaba
 
-<!--
-**kpbanalytics/kpbanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A finance and data analytics professional focused on applying data-driven insights to business and financial decision making.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 PGDip Finance
+- 🌍 Based in South Africa
+- 📊 Interests: FP&A | Data Analytics | Business Intelligence
+- ⭐ Skills: Investment Management | Financial Statement Analysis | Budgeting | Forecasting | Financial Modeling | Valuation
+
+---
+
+## 📊 Analytics Projects
+
+### 1️⃣ Telecom: Financial Statement Analysis Dashboard
+🛠️ **Tools:** Excel / Power BI
+
+- Analyzed company financial statements
+- Created ratio analysis and trend analysis
+- Built dashboard visualizing revenue growth, margins, and profitability
+etc....
+
+---
+
+### 2️⃣ 3-Statement Financial Model
+**Tools:** Excel
+
+- Built a financial model projecting:
+  - Income Statement
+  - Balance Sheet
+  - Cash Flow Statement
+- Revenue forecasting, working capital assumptions, and free cash flow projections
+etc....
+
+---
+
+### 3️⃣ Manufacturing: Sales & Business Analytics Dashboard
+**Tools:** Power BI
+
+- Cleaned and analyzed business sales data
+- Built interactive dashboard for business performance
+- Key insights: Revenue by region, product performance, customer trends
+etc....
+
+---
+
+# 📫 Contact Me
+To get a hold of me you can find me on the following platforms:
+
+<a href="https://www.linkedin.com/in/kutloanopaulbokaba">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" />
+</a>
+<a href="mailto:kpbanalytics@users.noreply.github.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" />
+</a>
+
+---
+
+# Connect With Me
+
+- If you're interested in **finance, analytics, or collaboration**, feel free to reach out!
+- If you find my projects interesting, feel free to **star the repositories!**
+
+__THANK YOU!!!__
