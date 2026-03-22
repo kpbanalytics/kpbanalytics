@@ -8,7 +8,7 @@ A finance and data analytics professional focused on applying data-driven insigh
 
 - 🎓 PGDip Finance
 - 🌍 Based in South Africa
-- 📊 Interests: FP&A | Data Analytics | Business Intelligence
+- 📊 Interests: FP&A | Data Analytics | Business Intelligence | Web Scraping
 - ⭐ Skills: Investment Management | Financial Statement Analysis | Budgeting | Forecasting | Financial Modeling | Valuation
 
 ---
