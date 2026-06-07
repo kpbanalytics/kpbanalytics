@@ -1,4 +1,4 @@
-![image alt](https://github.com/kpbanalytics/kpbanalytics/blob/49a409c33ed14b9c761609782e38007e7e3e381a/github-header-banner.png)
+![image alt](https://github.com/kpbanalytics/kpbanalytics/blob/51cd27def41aec300992f157fabf725e9a92599d/github-header-banner%20(1).png)
 
 ---
 
